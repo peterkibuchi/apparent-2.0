@@ -1,34 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Apparent 2.0
 
-## Getting Started
+> An advanced Real Estate Application with rental homes and for-sale properties, property filtering, property details page with an image carousel, and much more.
+> Live demo [_here_](https://apparent-eight.vercel.app/).
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- [General Info](#general-information)
+- [Technologies Used](#technologies-used)
+- [Project Status](#project-status)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## General Information
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- I undertook this project as a hands-on means of learning how to build complex real world applications.
+- I learnt a lot, including but not limited to: advanced NextJS best practices such as static generation and server-side rendering; how to fetch & integrate data from unlimited sources using RapidAPI; and how to create beautiful, modern UIs with Chakra UI.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Technologies Used
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- NextJS
+- Chakra UI
 
-## Learn More
+## Project Status
 
-To learn more about Next.js, take a look at the following resources:
+Project is: _complete_.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Acknowledgements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- This project was based on [this tutorial](https://youtu.be/y47gYvXchXM) by JavaScript Mastery. Many thanks to him for creating such a wonderful, hands-on, end-to-end tutorial.
 
-## Deploy on Vercel
+## Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Created by [Peter Kibuchi](https://www.peterkibuchi.com/).
